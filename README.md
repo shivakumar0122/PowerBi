@@ -1,0 +1,1 @@
+The goal of the document is to introduce readers to Power BI, explain its functionalities, and demonstrate how it can help in analyzing and visualizing data. It should serve as a beginner-friendly guide.
